@@ -1,0 +1,4 @@
+name: WorldImporter
+description: WorldImporter
+main: com.connorlinfoot.worldimporter.Main
+version: 1.0
